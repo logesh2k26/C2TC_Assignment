@@ -3,13 +3,10 @@ package com.tnsif.assignmenttwo.Commision;
 import java.util.Scanner;
 
 public class Commission {
-    // Data Members (fields)
     private String name;
     private String address;
     private String phone;
     private double salesAmount;
-
-    // Method to accept employee details
     public void acceptDetails() {
         Scanner sc = new Scanner(System.in);
 
@@ -25,8 +22,6 @@ public class Commission {
         System.out.print("Enter Sales Amount: ");
         salesAmount = sc.nextDouble();
     }
-
-    // Method to calculate commission
     public void calculateCommission() {
         double commission;
 
