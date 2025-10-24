@@ -1,4 +1,4 @@
-package com.tnsif.assignmenttwo.Commision;
+package com.tnsif.assignmenttwo;
 
 import java.util.Scanner;
 

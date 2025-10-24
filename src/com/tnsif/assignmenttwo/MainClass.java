@@ -1,4 +1,4 @@
-package com.tnsif.assignmenttwo.Commision;
+package com.tnsif.assignmenttwo;
 
 public class MainClass {
     public static void main(String[] args) {
